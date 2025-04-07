@@ -7,7 +7,7 @@ B.Tech CSE student at Thapar | AI/ML Enthusiast | DSA Learner
 🌱 Learning:
 - Machine Learning
 - Natural language processing
-📫 Connect with me: [LinkedIn](linkedin.com/in/manavgarg1)
+📫 Connect with me:linkedin.com/in/manavgarg1
 
 
 <!---
